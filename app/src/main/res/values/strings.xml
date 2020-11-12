@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Envia Datos</string>
+    <string-array name="Bebidas">
+        <item>Cafe</item>
+        <item>Gaseosa</item>
+        <item>Agua</item>
+        <item>Té</item>
+    </string-array>
+
+
+</resources>
